@@ -23,5 +23,5 @@ A clean and user-friendly web application that calculates your exact age in year
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/Age-Calculator.git
+git clone https://github.com/Sindhuja143-R/Age-Calculator.git
 cd Age-Calculator
