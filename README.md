@@ -3,6 +3,10 @@
 A clean and user-friendly web application that calculates your exact age in years, months, and days from your date of birth. The design uses a powerful visual—half baby, half old face—to emphasize the passage of time.
 
 
+![image](https://github.com/user-attachments/assets/b1ba8f55-3d5d-4ed5-914c-f2c7fbf5873f)
+
+
+
 ## 🌟 Features
 
 - 📅 Input date of birth using a calendar picker
